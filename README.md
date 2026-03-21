@@ -32,6 +32,7 @@ Orientação a Objetos na Alura.
 - **Coleções e Listas** — ArrayList, Collections e Comparable
 - **APIs e Exceções** — Consumo de APIs e tratamento de exceções
 - **Versionamento** — Git e GitHub para controle e compartilhamento de projetos
+- **Banco de Dados** — MySQL com modelagem e consultas
 
 ---
 
