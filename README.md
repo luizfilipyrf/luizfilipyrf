@@ -25,12 +25,13 @@ Orientação a Objetos na Alura.
 
 ---
 
-## 🚀 O que estou aprendendo
+## 🚀 O que sei fazer
 
-- Fundamentos da linguagem Java
-- Orientação a Objetos — classes, herança, interfaces e polimorfismo
-- Manipulação de listas e coleções
-- Consumo de APIs e tratamento de exceções
+- **Fundamentos Java** — variáveis, tipos, controle de fluxo e laços de repetição
+- **Orientação a Objetos** — classes, herança, interfaces, polimorfismo e encapsulamento
+- **Coleções e Listas** — ArrayList, Collections e Comparable
+- **APIs e Exceções** Consumo de APIs e tratamento de exceções
+- **Versionamento** — Git e GitHub para controle e compartilhamento de projetos
 
 ---
 
