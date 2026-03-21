@@ -12,9 +12,9 @@ Orientação a Objetos na Alura.
 
 ---
 
-## 📖 Formação Atual
+## 📖 Formação Atual — Alura
 
-**Aprenda a programar em Java com Orientação a Objetos — Alura**
+**Aprenda a programar em Java com Orientação a Objetos**
 
 | Etapa | Curso | Status |
 |-------|-------|--------|
@@ -27,12 +27,49 @@ Orientação a Objetos na Alura.
 
 ## 🚀 O que sei fazer
 
-- **Fundamentos Java** — variáveis, tipos, controle de fluxo e laços de repetição
-- **Orientação a Objetos** — classes, herança, interfaces, polimorfismo e encapsulamento
-- **Coleções e Listas** — ArrayList, Collections e Comparable
-- **APIs e Exceções** — Consumo de APIs e tratamento de exceções
-- **Versionamento** — Git e GitHub para controle e compartilhamento de projetos
-- **Banco de Dados** — MySQL com modelagem e consultas
+### ☕ Fundamentos Java
+- Sintaxe básica, variáveis e tipos
+- Estruturas condicionais — `if`, `else`, `else if`
+- Estruturas de repetição — `for` e `while`
+- Casting de tipos — `int`, `double` e outros
+
+### 🧱 Orientação a Objetos
+- Classes, objetos, atributos e métodos
+- Criação e uso de construtores
+- Métodos — `void`, retorno, parâmetros e `return`
+- Encapsulamento e modificadores de acesso — `public`, `private`, `protected`
+- Getters, setters e uso da palavra-chave `this`
+- Herança com `extends` e sobrescrita de métodos com `@Override`
+- Uso da palavra-chave `super`
+- Polimorfismo
+- Interfaces e implementação com `implements`
+- Annotations — `@Override`, `@Deprecated`
+- Organização de código com pacotes — `package` e `import`
+
+### 📦 Coleções e Estruturas de Dados
+- Arrays — declaração, inicialização e uso
+- `ArrayList` — `add()`, `get()`, `size()`, `remove()`
+- Listas de objetos e manipulação de coleções
+- Interface `List` e polimorfismo com coleções
+- Outras estruturas — `LinkedList`, `Vector`, `Stack`
+- `Map` e `HashMap` — `put()`, `get()`, `remove()`, `keySet()`
+- Estrutura chave-valor e busca eficiente
+
+### 🔃 Ordenação e Comparação
+- Ordenação de listas com `Collections.sort()`
+- Interface `Comparable` e método `compareTo()`
+- Ordenação personalizada com `Comparator`
+
+### 🔍 Boas Práticas e Conceitos Extras
+- Método `toString()` para representação de objetos
+- Variáveis e referências — comportamento de memória
+- Comparação de objetos — `==` vs `equals()`
+- Percorrendo listas com `for` tradicional e `foreach`
+- Casting de objetos e verificação de tipo com `instanceof`
+
+### 🔧 Versionamento
+- Git e GitHub — `add`, `commit`, `push`, `pull`
+- Branches e merge
 
 ---
 
