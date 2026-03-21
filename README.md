@@ -5,7 +5,14 @@ Orientação a Objetos na Alura.
 
 ---
 
-## 🎓 Formação Atual
+## 🎓 Formação Acadêmica
+
+- 📚 Cursando **Análise e Desenvolvimento de Sistemas** — UniCEPLAC
+- 📅 Previsão de conclusão: **2026**
+
+---
+
+## 📖 Formação Atual
 
 **Aprenda a programar em Java com Orientação a Objetos — Alura**
 
