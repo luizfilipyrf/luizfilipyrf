@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o Luiz! 👋
 
-<!--
-**luizfilipyrf/luizfilipyrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 🎓 Estudando Java na Alura
+- 💻 Aprendendo POO, Spring Boot e muito mais
+- 📍 Brasil
 
-Here are some ideas to get you started:
+## Tecnologias que estou aprendendo
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meus projetos
+- 🏦 [Simulador Bancário](https://github.com/luizfilipyrf/poo-conta-virtual)
+- 🎵 [Sistema de Músicas](https://github.com/luizfilipyrf/poo-minhas-musicas)
+- 🛒 [Sistema de Compras](https://github.com/luizfilipyrf/poo-compras)
