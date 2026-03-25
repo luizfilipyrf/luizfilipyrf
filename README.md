@@ -16,11 +16,11 @@ Orientação a Objetos na Alura.
 
 **Aprenda a programar em Java com Orientação a Objetos**
 
-Java: criando a sua primeira aplicação 
-Java: aplicando a Orientação a Objetos 
-Java: trabalhando com listas e coleções de dados 
-Java: consumindo API, gravando arquivos e lidando com erros 
-SQLite online: conhecendo instruções SQL
+- Java: criando a sua primeira aplicação
+- Java: aplicando a Orientação a Objetos
+- Java: trabalhando com listas e coleções de dados
+- Java: consumindo API, gravando arquivos e lidando com erros
+- SQLite online: conhecendo instruções SQL
 
 ---
 
