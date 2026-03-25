@@ -1,18 +1,18 @@
-# Olá, eu sou o Luiz! 👋
+# Olá, eu sou o Luiz! 
 
 Estudante de desenvolvimento back-end, atualmente aprendendo Java com foco em
 Orientação a Objetos na Alura.
 
 ---
 
-## 🎓 Formação Acadêmica
+##  Formação Acadêmica
 
 - 📚 Cursando **Análise e Desenvolvimento de Sistemas** — UniCEPLAC
 - 📅 Previsão de conclusão: **2026**
 
 ---
 
-## 📖 Formação Concluída — Alura
+##  Formação Concluída — Alura
 
 **Aprenda a programar em Java com Orientação a Objetos**
 
@@ -24,15 +24,15 @@ Orientação a Objetos na Alura.
 
 ---
 
-## 🚀 O que sei fazer
+##  O que sei fazer
 
-### ☕ Fundamentos Java
+###  Fundamentos Java
 - Sintaxe básica, variáveis e tipos
 - Estruturas condicionais — `if`, `else`, `else if`
 - Estruturas de repetição — `for` e `while`
 - Casting de tipos — `int`, `double` e outros
 
-### 🧱 Orientação a Objetos
+###  Orientação a Objetos
 - Classes, objetos, atributos e métodos
 - Criação e uso de construtores
 - Métodos — `void`, retorno, parâmetros e `return`
@@ -45,7 +45,7 @@ Orientação a Objetos na Alura.
 - Annotations — `@Override`, `@Deprecated`
 - Organização de código com pacotes — `package` e `import`
 
-### 📦 Coleções e Estruturas de Dados
+###  Coleções e Estruturas de Dados
 - Arrays — declaração, inicialização e uso
 - `ArrayList` — `add()`, `get()`, `size()`, `remove()`
 - Listas de objetos e manipulação de coleções
@@ -54,12 +54,12 @@ Orientação a Objetos na Alura.
 - `Map` e `HashMap` — `put()`, `get()`, `remove()`, `keySet()`
 - Estrutura chave-valor e busca eficiente
 
-### 🔃 Ordenação e Comparação
+###  Ordenação e Comparação
 - Ordenação de listas com `Collections.sort()`
 - Interface `Comparable` e método `compareTo()`
 - Ordenação personalizada com `Comparator`
 
-### 🌐 Consumo de APIs e Arquivos
+###  Consumo de APIs e Arquivos
 - Requisições HTTP com `HttpClient`, `HttpRequest` e `HttpResponse`
 - Conversão de JSON para objetos Java com `Gson`
 - Desserialização com `GsonBuilder` e `FieldNamingPolicy`
@@ -67,14 +67,14 @@ Orientação a Objetos na Alura.
 - Leitura e escrita de arquivos com `FileWriter` e `FileReader`
 - Gravação de arquivos `.json` no computador
 
-### ⚠️ Exceptions
+###  Exceptions
 - Tratamento de erros com `try`, `catch` e `finally`
 - Hierarquia de exceptions — `Exception`, `RuntimeException`, `Error`
 - Criação de exceptions personalizadas com `extends RuntimeException`
 - Lançamento manual de erros com `throw`
 - Validação de dados com exceptions
 
-### 🔍 Boas Práticas e Conceitos Extras
+###  Boas Práticas e Conceitos Extras
 - Método `toString()` para representação de objetos
 - Variáveis e referências — comportamento de memória
 - Comparação de objetos — `==` vs `equals()`
@@ -83,20 +83,11 @@ Orientação a Objetos na Alura.
 - Uso de `var` e inferência de tipos
 - Formato JSON — estrutura, tipos e uso em APIs
 
-### 🔧 Versionamento
+###  Versionamento
 - Git e GitHub — `add`, `commit`, `push`, `pull`
 - Branches e merge
 
 ---
-
-## 📂 Projetos
-
-- 🏦 [Simulador Bancário](https://github.com/luizfilipyrf/poo-conta-virtual)
-- 🎵 [Sistema de Músicas e Podcasts](https://github.com/luizfilipyrf/poo-minhas-musicas)
-- 🛒 [Sistema de Compras com Cartão de Crédito](https://github.com/luizfilipyrf/poo-compras)
-- 🎬 [Catálogo de Filmes](https://github.com/luizfilipyrf/java-catalogo-filmes)
-- 📮 [Buscador de CEP](https://github.com/luizfilipyrf/java-buscador-cep)
-
 ---
 
 ## 🛠️ Tecnologias
