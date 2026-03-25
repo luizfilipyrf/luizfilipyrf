@@ -12,16 +12,15 @@ Orientação a Objetos na Alura.
 
 ---
 
-## 📖 Formação Atual — Alura
+## 📖 Formação Concluída — Alura
 
 **Aprenda a programar em Java com Orientação a Objetos**
 
-| Etapa | Curso | Status |
-|-------|-------|--------|
-| 1 | Java: criando a sua primeira aplicação | ✅ Concluído |
-| 2 | Java: aplicando a Orientação a Objetos | ✅ Concluído |
-| 3 | Java: trabalhando com listas e coleções de dados | 🔄 Em andamento |
-| 3 | Java: consumindo API, gravando arquivos e lidando com erros | ⏳ Em breve |
+Java: criando a sua primeira aplicação 
+Java: aplicando a Orientação a Objetos 
+Java: trabalhando com listas e coleções de dados 
+Java: consumindo API, gravando arquivos e lidando com erros 
+SQLite online: conhecendo instruções SQL
 
 ---
 
@@ -60,12 +59,29 @@ Orientação a Objetos na Alura.
 - Interface `Comparable` e método `compareTo()`
 - Ordenação personalizada com `Comparator`
 
+### 🌐 Consumo de APIs e Arquivos
+- Requisições HTTP com `HttpClient`, `HttpRequest` e `HttpResponse`
+- Conversão de JSON para objetos Java com `Gson`
+- Desserialização com `GsonBuilder` e `FieldNamingPolicy`
+- Records para modelagem de dados externos
+- Leitura e escrita de arquivos com `FileWriter` e `FileReader`
+- Gravação de arquivos `.json` no computador
+
+### ⚠️ Exceptions
+- Tratamento de erros com `try`, `catch` e `finally`
+- Hierarquia de exceptions — `Exception`, `RuntimeException`, `Error`
+- Criação de exceptions personalizadas com `extends RuntimeException`
+- Lançamento manual de erros com `throw`
+- Validação de dados com exceptions
+
 ### 🔍 Boas Práticas e Conceitos Extras
 - Método `toString()` para representação de objetos
 - Variáveis e referências — comportamento de memória
 - Comparação de objetos — `==` vs `equals()`
 - Percorrendo listas com `for` tradicional e `foreach`
 - Casting de objetos e verificação de tipo com `instanceof`
+- Uso de `var` e inferência de tipos
+- Formato JSON — estrutura, tipos e uso em APIs
 
 ### 🔧 Versionamento
 - Git e GitHub — `add`, `commit`, `push`, `pull`
@@ -78,6 +94,8 @@ Orientação a Objetos na Alura.
 - 🏦 [Simulador Bancário](https://github.com/luizfilipyrf/poo-conta-virtual)
 - 🎵 [Sistema de Músicas e Podcasts](https://github.com/luizfilipyrf/poo-minhas-musicas)
 - 🛒 [Sistema de Compras com Cartão de Crédito](https://github.com/luizfilipyrf/poo-compras)
+- 🎬 [Catálogo de Filmes](https://github.com/luizfilipyrf/java-catalogo-filmes)
+- 📮 [Buscador de CEP](https://github.com/luizfilipyrf/java-buscador-cep)
 
 ---
 
