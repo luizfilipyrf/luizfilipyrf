@@ -7,7 +7,7 @@ focado em desenvolvimento back-end com Java.
 
 ## Formação
 
-**Aprenda a programar em Java com Orientação a Objetos — Alura**
+**Aprenda a programar em Java — Alura**
 - Java: criando a sua primeira aplicação
 - Java: aplicando a Orientação a Objetos
 - Java: trabalhando com listas e coleções de dados
