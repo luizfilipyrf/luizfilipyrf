@@ -1,5 +1,4 @@
 # Luiz Filipy
-
 Estudante de **Análise e Desenvolvimento de Sistemas** na UniCEPLAC (conclusão em 2026),
 focado em desenvolvimento back-end com Java.
 
@@ -7,18 +6,20 @@ focado em desenvolvimento back-end com Java.
 
 ## Formação
 
-**Aprenda a programar em Java — Alura**
-- Java: criando a sua primeira aplicação
-- Java: aplicando a Orientação a Objetos
-- Java: trabalhando com listas e coleções de dados
-- Java: consumindo API, gravando arquivos e lidando com erros
-- SQLite online: conhecendo instruções SQL
+**Trilha Back-End Java — Alura**
+
+- Fundamentos e Orientação a Objetos
+- Coleções, Streams e Lambdas
+- Consumo de APIs e tratamento de erros
+- Spring Boot e persistência com JPA
 
 ---
 
 ## Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
